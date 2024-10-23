@@ -1,10 +1,9 @@
-# Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
+#Smart Talent Intelligent
+
 ## Overview
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
-## Demo of the project
-https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/assets/70437673/56d043c4-bc02-4c16-bd85-fe2d3d909d8c
-
+#
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
 
@@ -50,48 +49,3 @@ streamlit run app.py
 
 5. Review the results, including the job description match, missing keywords, and profile summary.
 
-
-## Contributing
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and submit a pull request.
-
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-If you have any questions or issues, feel free to reach out to the maintainers:
-
-Maintainer: Prajwal Krishna
-Email: prajwalgbdr03@gmail.com
-
-Happy recruiting with Gemini Pro ATS!
-
-
-Key Responsibilities:
-
-Develop and maintain web applications using modern frameworks and technologies.
-Design user-friendly interfaces with a focus on performance and responsiveness.
-Write clean, maintainable, and efficient code for both front-end and back-end.
-Collaborate with designers, product managers, and other developers to define project requirements.
-Integrate APIs and third-party services.
-Ensure application security and data protection.
-Conduct code reviews and provide constructive feedback to team members.
-Troubleshoot and resolve issues as they arise.
-Stay updated with the latest industry trends and technologies.
-Qualifications:
-
-Bachelor’s degree in Computer Science, Information Technology, or related field (or equivalent experience).
-Proven experience as a Full Stack Developer or similar role.
-Proficiency in front-end technologies (HTML, CSS, JavaScript, and frameworks such as React, Angular, or Vue.js).
-Strong knowledge of back-end technologies (Node.js, Python, Ruby, Java, etc.).
-Experience with databases (SQL, NoSQL) and server management.
-Familiarity with version control systems (e.g., Git).
-Understanding of RESTful APIs and microservices architecture.
-Knowledge of Agile methodologies is a plus.
-Excellent problem-solving skills and attention to detail.
-Strong communication and collaboration skills.
-What We Offer:
