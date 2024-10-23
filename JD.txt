@@ -1,0 +1,32 @@
+Job Description
+We are looking for a passionate Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for developing and maintaining both client-side and server-side components of our web applications. You will work closely with our design and development teams to deliver high-quality software solutions that enhance the user experience.
+
+Key Responsibilities
+Design and Development:
+
+Develop and maintain responsive web applications using HTML, CSS, and JavaScript frameworks.
+Implement server-side logic using Node.js, Express, or similar technologies.
+Work with databases (SQL and NoSQL) to design and optimize data models and queries.
+Collaboration:
+
+Collaborate with UI/UX designers to translate design wireframes into functional applications.
+Work closely with other developers and product managers to understand requirements and deliver features on time.
+Testing and Debugging:
+
+Write unit and integration tests to ensure the quality and performance of applications.
+Troubleshoot and resolve issues reported by users or team members.
+Continuous Learning:
+
+Stay up to date with emerging technologies and industry trends.
+Participate in code reviews and contribute to best practices in development.
+Qualifications
+Education:
+
+Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+Technical Skills:
+
+Proficient in front-end technologies: HTML, CSS, JavaScript, and frameworks such as React, Angular, or Vue.js.
+Strong experience with back-end technologies: Node.js, Express, and RESTful APIs.
+Familiarity with database management systems such as MongoDB, MySQL, or PostgreSQL.
+Understanding of version control systems (Git) and CI/CD processes.
+Experience with cloud services (AWS, Azure, etc.) is a plus.
